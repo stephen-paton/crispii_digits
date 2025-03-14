@@ -8,7 +8,7 @@
 //! single hex digit, you'd need to ensure that the 4x leftmost bits of your u8 were set to zero before use, whereas using the Hex type, there's no such need
 //! 
 //! # Examples
-//! ``` no_run
+//! ```
 //! use crispii_digits::Hex;
 //! 
 //! fn pass_single_hex_digit(digit: Hex) {
