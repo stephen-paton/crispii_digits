@@ -2,7 +2,7 @@
 name = "crispii_digits"
 version = "0.1.2"
 edition = "2024"
-rust-version = "1.8.5"
+rust-version = "1.85.0"
 description = "Digit enums intended for use in Crispii"
 readme = "README.md"
 repository = "https://github.com/stephen-paton/crispii_digits"
