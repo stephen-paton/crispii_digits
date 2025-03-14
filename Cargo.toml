@@ -2,9 +2,14 @@
 name = "crispii_digits"
 version = "0.1.1"
 edition = "2024"
-description = "Simple, safe, no frills, digit enums (a low level dependency of the crispii ecosystem)"
+description = "Simple, safe, no frills, digit enums (a low level dependency of crispii)"
 readme = "README.md"
 repository = "https://github.com/stephen-paton/crispii_digits"
 authors = ["Stephen Paton <69050696+stephen-paton@users.noreply.github.com>"]
 license = "MIT OR Apache-2.0"
 keywords = ["crispii", "digits", "enums"]
+include = [
+    "/LICENSE-APACHE",
+    "/LICENSE-MIT",
+    "/README.md"
+]
