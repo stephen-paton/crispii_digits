@@ -1,12 +1,12 @@
 //! Digit types intended for use in Crispii
-mod bin;
+pub mod bin;
 pub use bin::Bin;
 
-mod oct;
+pub mod oct;
 pub use oct::Oct;
 
-mod dec;
+pub mod dec;
 pub use dec::Dec;
 
-mod hex;
+pub mod hex;
 pub use hex::Hex;
